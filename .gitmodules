@@ -1,0 +1,6 @@
+[submodule "Codespace"]
+	path = Codespace
+	url = git@github.com:zvwgvx/Codespace.git
+[submodule "Src"]
+	path = Src
+	url = git@github.com:zvwgvx/Src.git
